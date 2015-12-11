@@ -6,5 +6,5 @@ Please import this project into your favorite IDE.
 
 Best of luck!
 
-- The Walmart Technology Cloud-Powered Stores Team
+--- The Walmart Technology Cloud-Powered Stores Team
 
